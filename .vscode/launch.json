@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Arkanoid JS (Run)",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "node server.mjs",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
