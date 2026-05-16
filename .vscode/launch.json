@@ -2,7 +2,7 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Arkanoid JS (Run)",
+      "name": "Жопаноид JS (Run)",
       "type": "node-terminal",
       "request": "launch",
       "command": "node server.mjs",
