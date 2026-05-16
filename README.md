@@ -1,6 +1,6 @@
-﻿# Arkanoid (test task)
+﻿# Жопаноид (test task)
 
-Клон Arkanoid под веб в стиле NES/Famicom.
+Клон Arkanoid под веб в стиле NES/Famicom, переименованный в «Жопаноид».
 Сделан на чистом `HTML + CSS + JS`, без фреймворков и без сборки.
 
 ## Как запустить
@@ -21,7 +21,7 @@ node server.mjs
 http://127.0.0.1:8080
 ```
 
-В VS Code можно нажать `F5` (`Arkanoid JS (Run)`), там выполняется та же команда `node server.mjs`.
+В VS Code можно нажать `F5` (`Жопаноид JS (Run)`), там выполняется та же команда `node server.mjs`.
 
 ## Что в игре уже есть
 

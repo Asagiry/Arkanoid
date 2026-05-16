@@ -47,9 +47,9 @@ export class ArkanoidRender extends ArkanoidRenderVisuals {
     if (this.menuPage === 0) {
       ctx.fillStyle = "#8d3a1a";
       ctx.font = "20px 'Courier New', monospace";
-      ctx.fillText("ARKANOID", centerX + 1, 74);
+      ctx.fillText("ЖОПАНОИД", centerX + 1, 74);
       ctx.fillStyle = "#ffca66";
-      ctx.fillText("ARKANOID", centerX, 73);
+      ctx.fillText("ЖОПАНОИД", centerX, 73);
 
       ctx.fillStyle = "#f5e7cd";
       ctx.font = "6px 'Courier New', monospace";
